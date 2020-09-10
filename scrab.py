@@ -119,4 +119,5 @@ speciales = setup_board(15)
 addword(7, 7, "test", 'h')
 addword(7, 8, "erstest", 'v')
 addword(9, 8, "steaks", 'h')
+
 printb(board)
